@@ -25,7 +25,7 @@
 					<div class="col-md-6">
 						<div class="db-two">
 							<p>
-								<span>8 800 800 8888</span> <a href="#">Перезвоним за 30 секунд</a>
+								<span>+7 (383) 377-75-41</span> <a href="#">Перезвоним за 30 секунд</a>
 							</p>
 						</div>
 					</div>
@@ -70,7 +70,7 @@
 					<p class="sukhoy-getprice">Получить расчет <br> по своему проекту</p>
 					<form method="post" action="#" class="js-submit sukhoy-form">
 				    <input class="sukhoy-input" type="text" name="uname" placeholder="Ваше Имя" required>
-				    <input class="sukhoy-input" type="text" name="email" placeholder="Ваш e-mail" required>
+				   <input class="sukhoy-input js-phone phone" type="phone" name="phone" placeholder="Ваш телефон" required>
 				    <a href="#" class="sukhoy-input sukhoy-file">Прикрепить проект</a>
 				    <input class="sukhoy-input sukhoy-submit" type="submit" name="get-calculation" value="Получить расчет">
 					</form>

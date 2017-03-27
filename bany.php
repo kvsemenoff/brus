@@ -91,7 +91,7 @@
 					<p class="sukhoy-getprice">узнай стоимость</p>
 					  <form method="post" action="#" class="js-submit sukhoy-form" >
 						<input class="sukhoy-input" type="text" name="uname" placeholder="Ваше Имя" required>
-						<input class="sukhoy-input" type="text" name="email" placeholder="Ваш e-mail" required>
+						<input class="sukhoy-input js-phone phone" type="phone" name="phone" placeholder="Ваш телефон" required>
 						<input class="sukhoy-input sukhoy-submit" type="submit" name="get-calculation" value="Получить расчет">
 					</form>
 					<p class="sukhoy-secure">Ваши данные в безопасности и не будут переданы третьим лицам</p>
@@ -497,7 +497,7 @@
 					<p class="sukhoy-getprice">узнай стоимость</p>
 					<form method="post" action="#" class="js-submit sukhoy-form" >
 						<input class="sukhoy-input" type="text" name="uname" placeholder="Ваше Имя" required>
-						<input class="sukhoy-input" type="email" name="email" placeholder="Ваш e-mail" required>
+						<input class="sukhoy-input js-phone phone" type="phone" name="phone" placeholder="Ваш телефон" required>
 						<input class="sukhoy-input sukhoy-submit" type="submit" name="get-calculation" value="Получить расчет">
 					</form>
 					<p class="sukhoy-secure">Ваши данные в безопасности и не будут переданы третьим лицам</p>

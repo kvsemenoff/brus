@@ -25,7 +25,7 @@
 					<div class="col-md-6">
 						<div class="db-two">
 							<p>
-								<span>8 800 800 8888</span> <a href="#log-in" name="modal">Перезвоним за 30 секунд</a>
+								<span>+7 (383) 377-75-41</span> <a href="#log-in" name="modal">Перезвоним за 30 секунд</a>
 							</p>
 						</div>
 					</div>

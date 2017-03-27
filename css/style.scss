@@ -1,3 +1,4 @@
+@import "fonts.css";
 html, body, div, span, applet, object, iframe,
 h1,h2,h4,h5,h3, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -87,7 +88,7 @@ q:before, q:after {
 
 h5{
 color: #5c5c5c;
-font-family: "Oswald";
+font-family: "Oswald-DemiBold";
 font-size: 30px;
 font-weight: 600;
 line-height: 50px;
@@ -497,7 +498,7 @@ border:none;
         text-transform: uppercase;
         font-weight: 600;
         font-size: 18px;
-        font-family: 'Oswald', sans-serif;
+       font-family: "Oswald-DemiBold";
         letter-spacing: 2px;
     }
     .dd-sp_2{
@@ -520,7 +521,7 @@ border:none;
         height: 44px;
         background-color: #ffba00;
         text-transform: uppercase;
-        font-family: 'Oswald', sans-serif;
+        font-family: "Oswald-DemiBold";
         font-size: 18px;
         font-weight: 600;
         color:#fff;
@@ -779,7 +780,7 @@ input[type="number"]::-webkit-inner-spin-button {
         display: block;
         text-transform: uppercase;
         color: #000;
-        font-family: 'Oswald', arial, sans-serif;
+        font-family: "Oswald-DemiBold";
         font-weight: 600;
         font-size: 30px;
         padding-bottom: 30px;
@@ -908,7 +909,7 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 .first-title {
     color: white;
-    font-family: "Oswald";
+    font-family: "Oswald-DemiBold";
     font-size: 28px;
     font-weight: 600;
     line-height: 48px;
@@ -975,7 +976,7 @@ input[type="number"]::-webkit-inner-spin-button {
 
 .first-calc {
     color: white;
-    font-family: "Oswald";
+    font-family: "Oswald-DemiBold";
     font-size: 20px;
     font-weight: 600;
     line-height: 20px;
@@ -1081,7 +1082,7 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 .sukhoy-submit {
     color: white;
-    font-family: "Oswald";
+    font-family: "Oswald-DemiBold";
     font-size: 20px;
     font-weight: 600;
     line-height: 50px;

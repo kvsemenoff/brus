@@ -696,6 +696,16 @@ border:none;
         text-align: left;
         font-weight: 300;
         color: #fff;
+        display: inline-block;
+        position: relative;
+        overflow: hidden;
+        input{
+            position: absolute;
+            left: 0;
+            top: 0;            
+            opacity: 0;
+            cursor: pointer;
+        }
     }
 }
 .half{

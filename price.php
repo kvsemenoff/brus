@@ -14,7 +14,7 @@
 			<div class="all-container">
 				<div class="col-md-6">
 					<div class="db-one">
-						<a href="#"><img src="img/brus-log.png" alt="img"></a> 
+						<a href="/"><img src="img/brus-log.png" alt="img"></a> 
 						<p>Профилированный брус<br>
 							Собственное производство в Новосибирске<br>
 							Полный цикл деревообработки от круглого леса<br>

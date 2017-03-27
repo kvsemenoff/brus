@@ -41,8 +41,8 @@
 		</div>	
 		<ul class="db-menu">
 			<li><a href="index.php">Главная</a></li>
-			<li><a href="profile-house.php">дома из профилированного бруса</a></li>
-			<li><a href="bany.php">бани из профилированного бруса</a></li>
+			<li><a href="doma.php">дома из профилированного бруса</a></li>
+			<li><a href="bani.php">бани из профилированного бруса</a></li>
 			<li><a href="price.php">цена</a></li>
 			<li><a href="calculator.php">онлайн калькулятор</a></li>
 			<li><a href="contacts.php">контакты</a></li>
@@ -52,8 +52,8 @@
 	<section class="db-num_menu2">	
 		<ul class="db-menu">
 			<li><a href="index.php">Главная</a></li>
-			<li><a href="profile-house.php">дома из профилированного бруса</a></li>
-			<li><a href="bany.php">бани из профилированного бруса</a></li>
+			<li><a href="doma.php">дома из профилированного бруса</a></li>
+			<li><a href="bani.php">бани из профилированного бруса</a></li>
 			<li><a href="price.php">цена</a></li>
 			<li><a href="calculator.php">онлайн калькулятор</a></li>
 			<li><a href="contacts.php">контакты</a></li>

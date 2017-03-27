@@ -12,3 +12,17 @@
   font-weight: normal;
   font-style: normal; 
 }
+@font-face {
+  font-family: "Oswald-Medium";
+  src: url("../fonts/Oswald-Medium/Oswald-Medium.eot");
+  src: local("☺"), url("../fonts/Oswald-Medium/Oswald-Medium.woff") format("woff"), url("../fonts/Oswald-Medium/Oswald-Medium") format("truetype"), url("../fonts/Oswald-Medium/Oswald-Medium.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; 
+}
+@font-face {
+  font-family: "Oswald-Light";
+  src: url("../fonts/Oswald-Light/Oswald-Light.eot");
+  src: local("☺"), url("../fonts/Oswald-Light/Oswald-Light.woff") format("woff"), url("../fonts/Oswald-Light/Oswald-Light") format("truetype"), url("../fonts/Oswald-Light/Oswald-Light.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; 
+}

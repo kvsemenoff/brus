@@ -54,6 +54,18 @@
 		</div>
 	</div>
 
+	<div id="log-in4" class="window2">
+		<div class="sukhoy-form__block dd-pop">
+			<p class="sukhoy-getprice">Скачать еще 37 проектов</p>
+			<form method="post" action="#" class="form1 sukhoy-form" >
+				<input class="sukhoy-input" type="text" name="uname" placeholder="Ваше Имя" required>
+				<input class="sukhoy-input phone" type="text" name="phone" placeholder="Ваш телефон" required>
+				<input class="sukhoy-input sukhoy-submit" type="submit" name="submit" value="Отправить">
+			</form>
+			<p class="sukhoy-secure">Ваши данные в безопасности и не будут переданы третьим лицам</p>
+		</div>
+	</div>
+
 	<div id="log-in3" class="window2">
 		<div class="sukhoy-form__block dd-pop">
 			<p class="sukhoy-getprice">Получить смету</p>

@@ -68,12 +68,17 @@
 	    <div class="first-left">
 	    	<div class="sukhoy-form__block">
 					<p class="sukhoy-getprice">Получить расчет <br> по своему проекту</p>
-				<form method="post" action="#" class="js-submit sukhoy-form" enctype="multipart/form-data">
+				<form method="post" action="/message_f.php" class="sukhoy-form" enctype="multipart/form-data">
 				    <input class="sukhoy-input" type="text" name="uname" placeholder="Ваше Имя" required>
 				   <input class="sukhoy-input js-phone phone" type="phone" name="phone" placeholder="Ваш телефон" required>
 
 				    <a href="#" class="sukhoy-input sukhoy-file">Прикрепить проект
 				    <input type="file" name="mail_file" maxlength="64">
+					
+					<?/*--второй вариант
+					<input type="file" name="mail_file" maxlength="64" value="Прикрепить проект">
+					*/?>
+					
 				    </a>
 <!-- 
 
